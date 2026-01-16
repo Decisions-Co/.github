@@ -2,6 +2,8 @@
 
 Objectif : avoir des noms **cohérents**, **lisibles** et **compatibles** avec **Git** et **Cloudflare**.
 
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%22104GhGVRuYI6fUpp9bu4L2BheSLyiHpG5%22%5D,%22action%22:%22open%22,%22userId%22:%22106376433399550293492%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
 ---
 
 ## Structure logique
